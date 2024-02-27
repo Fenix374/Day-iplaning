@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0FbDKP5jKxFKnUSdwoy7pDK+OsX4UFEyBnuhqSPPomk497w9yFCrH+9nM9/bw6aM6gGhjzKmmxerhnQTuq9dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semen\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\newtonsoft.json.bson\\1.0.3-beta1\\newtonsoft.json.bson.1.0.3-beta1.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\newtonsoft.json.schema\\3.0.16-beta1\\newtonsoft.json.schema.3.0.16-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
